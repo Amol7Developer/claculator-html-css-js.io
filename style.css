@@ -16,6 +16,11 @@ html,body{
     cursor: pointer;
 }
 
+
+.equals{
+ width: 190px;   
+}
+
 .row{
     margin: 8px 0px;
     
