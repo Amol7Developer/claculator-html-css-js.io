@@ -3,7 +3,10 @@
 }
 
 .bg-red {
-    background: red;
+    background:rgb(236, 255, 139);
+    width: fit-content;
+    padding: 10px;
+    border: 2px solid black;
 }
 
 .mx-auto{

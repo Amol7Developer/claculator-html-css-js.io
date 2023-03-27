@@ -14,11 +14,25 @@ html,body{
     border: 2px solid black;
     border-radius: 9px;
     cursor: pointer;
+    background-color: darkseagreen;
+    font-weight: bold;
 }
 
+.clear{
+    background-color:aliceblue; 
+}
 
 .equals{
- width: 190px;   
+ width: 190px;
+ background-color: rgb(46, 64, 169); 
+ color: aliceblue;
+ 
+}
+
+.operators{
+ background-color:orange; 
+ color: rgb(10, 39, 64);
+ 
 }
 
 .row{
